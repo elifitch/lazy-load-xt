@@ -1,5 +1,7 @@
 # Lazy Load XT jQuery plugin
 
+Forked in order to fix a bug, register newest version with bower.
+
 ---
 
 ## Table of Contents
