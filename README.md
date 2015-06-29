@@ -119,7 +119,7 @@ Addons:
 
 Install and manage Lazy Load XT using [Bower](http://bower.io/)
 
-    $ bower install lazyloadxt
+    $ bower install lazyloadxt-1.0.6
 
 Install and manage using [NPM](https://npmjs.org/)
 
